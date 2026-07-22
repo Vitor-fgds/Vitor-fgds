@@ -74,6 +74,14 @@ Sou Técnico em Informática, estudante de Sistemas de Informação na UFVJM e D
 />
 <img 
     align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -168,10 +176,10 @@ Projeto introdutório de estudo do framework **Laravel**, criado como primeiro c
 <table>
 <tr>
 <td>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitor-fgds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Vitor-fgds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 </td>
 <td>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-fgds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vitor-fgds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </td>
 </tr>
 </table>
