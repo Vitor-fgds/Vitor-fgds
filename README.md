@@ -3,14 +3,7 @@
 
 Sou Técnico em Informática, estudante de Sistemas de Informação na UFVJM e Desenvolvedor Back-end, com interesse em desenvolvimento de aplicações, APIs REST, arquitetura de software e bancos de dados. Atualmente atuo como Estagiário de Desenvolvimento na DSI - UFVJM, onde participo do desenvolvimento e manutenção de sistemas.
 
-<p>
-  <a href="https://www.linkedin.com/in/vitor-rocha-fagundes-moura-333a15334/" target="_blank">
-    <img align="center" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" style="padding-right: 10px;" />
-  </a>
-  <a href="mailto:vitor.fagundes@ufvjm.edu.br">
-    <img align="center" alt="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg" width="30px" style="padding-right: 10px;" />
-  </a>
-</p>
+🔗 [LinkedIn](https://www.linkedin.com/in/vitor-rocha-fagundes-moura-333a15334/) &nbsp;•&nbsp; ✉️ [vitor.fagundes@ufvjm.edu.br](mailto:vitor.fagundes@ufvjm.edu.br)
 
 ---
 
@@ -119,37 +112,50 @@ API REST para centralizar e gerenciar informações sobre princípios ativos de 
 
 ---
 
-<p>
-  <a href="https://github.com/Vitor-fgds/api-produtos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-fgds&repo=api-produtos&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Vitor-fgds/Hamburgueria---POO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-fgds&repo=Hamburgueria---POO&theme=tokyonight" />
-  </a>
-</p>
+#### 📦 api-produtos — API de Gerenciamento de Produtos
+API REST de gerenciamento de produtos construída com Spring Boot e PostgreSQL, containerizada com Docker para facilitar o deploy. Projeto focado na prática de persistência de dados com JPA/Hibernate, organização em camadas (controller, service, repository) e boas práticas de desenvolvimento backend em Java.
 
-> **api-produtos** — API REST de gerenciamento de produtos construída com Spring Boot, PostgreSQL e Docker, aplicando conceitos de persistência de dados e containerização para facilitar o deploy da aplicação.
->
-> **Hamburgueria — POO** — Sistema de gerenciamento de pedidos para uma hamburgueria, desenvolvido em Java na disciplina de Programação Orientada a Objetos (5º período da UFVJM). Aplica conceitos como encapsulamento, herança e polimorfismo na modelagem do domínio.
+`Java` `Spring Boot` `PostgreSQL` `Docker`
 
-<p>
-  <a href="https://github.com/Vitor-fgds/Projetos-Node">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-fgds&repo=Projetos-Node&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Vitor-fgds/CS50P">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-fgds&repo=CS50P&theme=tokyonight" />
-  </a>
-</p>
+🔗 [Ver repositório](https://github.com/Vitor-fgds/api-produtos)
 
-> **Projetos-Node** — Repositório que reúne diversas APIs e projetos backend construídos em Node.js e Express durante estudos de autenticação, JWT e boas práticas de CRUD (JOBS-API, JOBSTER-API, TASK-MANAGER, STORE-API, JWT Basics, entre outros), evidenciando prática constante com o ecossistema JavaScript no backend.
->
-> **CS50P** — Exercícios e projeto final resolvidos durante o curso CS50's Introduction to Programming with Python, de Harvard, cobrindo desde lógica de programação e estruturas de dados até bibliotecas e boas práticas em Python.
+---
+
+#### 🍔 Hamburgueria — POO
+Sistema de gerenciamento de pedidos para uma hamburgueria, desenvolvido em Java na disciplina de Programação Orientada a Objetos (5º período da UFVJM). Aplica conceitos como encapsulamento, herança e polimorfismo na modelagem do domínio do sistema de pedidos.
+
+`Java` `POO`
+
+🔗 [Ver repositório](https://github.com/Vitor-fgds/Hamburgueria---POO)
+
+---
+
+#### 🧰 Projetos-Node — Coleção de APIs em Node.js
+Repositório que reúne diversas APIs e projetos backend construídos em Node.js e Express durante estudos de autenticação, JWT e boas práticas de CRUD — incluindo JOBS-API (com frontend próprio), JOBSTER-API, TASK-MANAGER, STORE-API, SIMPLE-BACKEND-CRUD e JWT Basics. Evidencia prática constante com o ecossistema JavaScript no backend.
+
+`Node.js` `Express.js` `JavaScript` `JWT`
+
+🔗 [Ver repositório](https://github.com/Vitor-fgds/Projetos-Node)
+
+---
+
+#### 🐍 CS50P — Introduction to Programming with Python
+Exercícios e projeto final resolvidos durante o curso CS50's Introduction to Programming with Python, de Harvard, organizados por semana (Exercícios 0 a 9) e projeto final, cobrindo desde lógica de programação e estruturas de dados até bibliotecas e boas práticas em Python.
+
+`Python`
+
+🔗 [Ver repositório](https://github.com/Vitor-fgds/CS50P)
+
+---
 
 <details>
 <summary>📚 Projetos de estudo introdutórios</summary>
 <br/>
 
-**Ideas** — projeto introdutório de estudo do framework **Laravel**, criado como primeiro contato prático com a estrutura MVC do PHP.
+#### 🚀 Ideas — Primeiro contato com Laravel
+Projeto introdutório de estudo do framework **Laravel**, criado como primeiro contato prático com a estrutura MVC do PHP — rotas, models, views (Blade) e ambiente containerizado com Docker.
+
+`PHP` `Laravel` `Blade` `Docker`
 
 🔗 [Ver repositório](https://github.com/Vitor-fgds/Ideas)
 
@@ -158,32 +164,18 @@ API REST para centralizar e gerenciar informações sobre princípios ativos de 
 ---
 
 ### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Vitor-fgds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-fgds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-<br/>
-<br/>
+
+<table>
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitor-fgds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+</td>
+<td>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-fgds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</td>
+</tr>
+</table>
 
 ### 🔥 Streak de Commits
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Streak" 
-    height="200" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-fgds&theme=tokyonight" 
-  />
-</p>
-<br/>
-<br/>
+
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-fgds&theme=tokyonight" />
