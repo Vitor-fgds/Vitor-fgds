@@ -129,6 +129,15 @@ API REST de gerenciamento de produtos construída com Spring Boot e PostgreSQL, 
 
 ---
 
+#### 📚 api-biblioteca — API de Gerenciamento de Biblioteca
+API REST de gerenciamento de biblioteca construída com Spring Boot e PostgreSQL, containerizada com Docker para facilitar o deploy. Projeto focado na prática de persistência de dados com JPA/Hibernate, organização em camadas (controller, service, repository) e boas práticas de desenvolvimento backend em Java. Foca bastante na utilização de DTO's e regras de negócio nos services.
+
+`Java` `Spring Boot` `PostgreSQL` `Docker`
+
+🔗 [Ver repositório](https://github.com/Vitor-fgds/api-biblioteca)
+
+---
+
 #### 🍔 Hamburgueria — POO
 Sistema de gerenciamento de pedidos para uma hamburgueria, desenvolvido em Java na disciplina de Programação Orientada a Objetos (5º período da UFVJM). Aplica conceitos como encapsulamento, herança e polimorfismo na modelagem do domínio do sistema de pedidos.
 
