@@ -139,9 +139,13 @@ API REST de gerenciamento de biblioteca construída com Spring Boot e PostgreSQL
 ---
 
 #### 🎫 api-suporte — API de Gerenciamento de Chamados de Suporte
-API REST para gerenciamento de chamados (tickets) de suporte, com autenticação JWT stateless e controle de acesso por papel (ADMIN / CLIENTE). Projeto focado na prática de Spring Security, migrations versionadas com Flyway e tratamento de erros.
+ 
+API REST de chamados de suporte com autenticação JWT e controle de acesso por papel (ADMIN / CLIENTE). Projeto focado em Spring Security, migrations com Flyway e tratamento de erros no padrão RFC 7807.
+ 
 `Java` `Spring Boot` `Spring Security` `PostgreSQL` `Flyway` `JWT` `Docker`
+ 
 🔗 [Ver repositório](https://github.com/Vitor-fgds/api-suporte)
+ 
 ---
 
 #### 🍔 Hamburgueria — POO
