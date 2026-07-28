@@ -138,6 +138,12 @@ API REST de gerenciamento de biblioteca construída com Spring Boot e PostgreSQL
 
 ---
 
+#### 🎫 api-suporte — API de Gerenciamento de Chamados de Suporte
+API REST para gerenciamento de chamados (tickets) de suporte, com autenticação JWT stateless e controle de acesso por papel (ADMIN / CLIENTE). Projeto focado na prática de Spring Security, migrations versionadas com Flyway e tratamento de erros.
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `Flyway` `JWT` `Docker`
+🔗 [Ver repositório](https://github.com/Vitor-fgds/api-suporte)
+---
+
 #### 🍔 Hamburgueria — POO
 Sistema de gerenciamento de pedidos para uma hamburgueria, desenvolvido em Java na disciplina de Programação Orientada a Objetos (5º período da UFVJM). Aplica conceitos como encapsulamento, herança e polimorfismo na modelagem do domínio do sistema de pedidos.
 
